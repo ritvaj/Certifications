@@ -8,4 +8,4 @@
 
 - **HackerRank SQL (Expert)**  
   Issued by HackerRank  
-  [View Credential]([<your HackerRank link>](https://www.hackerrank.com/certificates/61c2ca7d15c0))
+  [View Credential](https://www.hackerrank.com/certificates/61c2ca7d15c0)
