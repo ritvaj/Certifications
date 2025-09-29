@@ -4,7 +4,7 @@
 
 - **PL-300: Microsoft Power BI Data Analyst**  
   Issued by Microsoft  
-  [View Credential]([<your Credly/verification link>](https://learn.microsoft.com/api/credentials/share/en-us/RitvajMadotra-3780/377B7EFB09B0E557?sharingId=7B12E460F27F6EF8))
+  [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/RitvajMadotra-3780/377B7EFB09B0E557?sharingId=7B12E460F27F6EF8)
 
 - **HackerRank SQL (Expert)**  
   Issued by HackerRank  
