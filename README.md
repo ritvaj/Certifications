@@ -1,12 +1,11 @@
-🎓 PL-300: Microsoft Power BI Data Analyst
+# Certifications
 
-This repository contains my PL-300 Certification (Power BI Data Analyst Associate) earned from Microsoft.  
+## 🎯 Data Analytics Certifications
 
+- **PL-300: Microsoft Power BI Data Analyst**  
+  Issued by Microsoft  
+  [View Credential]([<your Credly/verification link>](https://learn.microsoft.com/api/credentials/share/en-us/RitvajMadotra-3780/377B7EFB09B0E557?sharingId=7B12E460F27F6EF8))
 
-📄 Certificate
-![Certificate](Image%20Microsoft%20Power%20BI%20Data%20Analyst%20Certificate.jpg)
-
----
-
-🔗 Verification Link
-You can verify this certification on [Credly](https://www.credly.com/)  
+- **HackerRank SQL (Expert)**  
+  Issued by HackerRank  
+  [View Credential]([<your HackerRank link>](https://www.hackerrank.com/certificates/61c2ca7d15c0))
