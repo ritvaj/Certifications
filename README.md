@@ -1,6 +1,6 @@
 # Certifications
 
-## 🎯 Data Analytics Certifications
+## 🎯 Data Skills
 
 - **PL-300: Microsoft Power BI Data Analyst**  
   Issued by Microsoft  
