@@ -1,4 +1,4 @@
-# Certifications
+# 🎓Certifications
 This repository contains all my professional certifications in data analytics, visualization, and programming.
 
 ---
