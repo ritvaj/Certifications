@@ -5,7 +5,7 @@ This repository contains all my professional certifications in data analytics, v
 
 ## Data & Analytics Skills
 
-### 🐍 **Python & Data Analysis**
+### **Python & Data Analysis**
 
 - **Kaggle: Pandas Course** – *Issued by Kaggle Learn*  
   [View Credential](https://www.kaggle.com/learn/certification/ritvajmadotra/pandas)
@@ -18,7 +18,7 @@ This repository contains all my professional certifications in data analytics, v
 
 ---
 
-### 🧮 **SQL**
+### **SQL**
 
 - **SQL Expert** – *Issued by HackerRank*  
   [View Credential](https://www.hackerrank.com/certificates/61c2ca7d15c0)
@@ -28,7 +28,7 @@ This repository contains all my professional certifications in data analytics, v
 
 ---
 
-### 📊 **Power BI & Data Visualization**
+### **Power BI & Data Visualization**
 
 - **PL-300: Microsoft Power BI Data Analyst**  
   *Issued by Microsoft*  
