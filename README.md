@@ -1,5 +1,6 @@
-# 🎓Certifications
-This repository contains all my professional certifications in data analytics, visualization, and programming.
+# 🎓 Certifications & Professional Learning
+
+This repository documents my verified certifications and professional course completions across Python, SQL, Power BI, and applied analytics.
 
 ---
 
